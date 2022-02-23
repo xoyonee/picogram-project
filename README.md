@@ -1,7 +1,7 @@
 ## 💧 picogram(피코그램)
 
 
-✈ [데모 사이트 링크](http://yeonee27.dothome.co.kr/picogram/) ✈
+✈ [사이트 링크](http://yeonee27.dothome.co.kr/picogram/) ✈
 
 <br/>
 
