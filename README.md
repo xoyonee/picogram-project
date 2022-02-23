@@ -1,4 +1,4 @@
-## 💧 picogram(피코그램)
+## 🥛  picogram(피코그램)
 
 
 ✈ [사이트 링크](http://yeonee27.dothome.co.kr/picogram/) ✈
