@@ -40,6 +40,7 @@ h1{
 }
 h2{
     font-size: 16px;
+    line-height: 1.5;
 }
 .top_move{
     transform: translateY(100%);
@@ -91,6 +92,7 @@ h2{
 }
 .txt_box{
     margin-bottom: 20px;
+    padding: 0 10px;
 }
 .logo_box{
     flex: 0 0 70%;
